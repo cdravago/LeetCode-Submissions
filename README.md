@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0704-binary-search](https://github.com/cdravago/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/cdravago/LeetCode-Submissions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/cdravago/LeetCode-Submissions/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/cdravago/LeetCode-Submissions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/cdravago/LeetCode-Submissions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
