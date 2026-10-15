@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/cdravago/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/cdravago/LeetCode-Submissions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/cdravago/LeetCode-Submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
