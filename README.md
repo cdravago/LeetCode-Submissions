@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/cdravago/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/cdravago/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/cdravago/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/cdravago/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cdravago/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/cdravago/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/cdravago/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/cdravago/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
