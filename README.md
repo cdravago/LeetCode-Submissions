@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/cdravago/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/cdravago/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/cdravago/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cdravago/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cdravago/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/cdravago/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
