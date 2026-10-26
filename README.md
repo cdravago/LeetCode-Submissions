@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/cdravago/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/cdravago/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cdravago/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cdravago/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
@@ -88,5 +89,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
