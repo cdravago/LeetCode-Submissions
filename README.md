@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/cdravago/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cdravago/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cdravago/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/cdravago/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cdravago/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
