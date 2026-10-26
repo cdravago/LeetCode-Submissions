@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/cdravago/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cdravago/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/cdravago/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cdravago/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/cdravago/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
