@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/cdravago/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/cdravago/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/cdravago/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -29,11 +30,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cdravago/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/cdravago/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cdravago/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -65,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cdravago/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/cdravago/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/cdravago/LeetCode-Submissions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -83,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/cdravago/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cdravago/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cdravago/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/cdravago/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/cdravago/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -117,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cdravago/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -125,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/cdravago/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cdravago/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
